@@ -5,8 +5,8 @@ Figures after testing the Random forest model on the test set.
 2. Precision - 95.23%
 3. Recall- 86.96%
 4. F1-score - 90.90 %
-In the 2nd notebook, I have used a deep learning model which is 5 layers deep.
 
+In the 2nd notebook, I have used a deep learning model which is 5 layers deep.
 Figures after testing the DNN model on the test set.
 1. Accuracy - 99.93 %
 2. Precision - 84.67%
